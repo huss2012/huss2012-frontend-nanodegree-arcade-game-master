@@ -1,4 +1,4 @@
- #Details of who to run the game:
+ # Details of who to run the game:
   - Open the -index.html- file in your favorite browser.
   - The game will start immediately.
   - Use the arrow keys to move the player
